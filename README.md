@@ -33,7 +33,8 @@ Estas comunidades, especialmente las que llevan una  mayor cantidad de tiempo re
 
 En ese sentido, es indispensable alejarnos de la vision por un lado de buscar alterar estos ecosistemas por no entender su funcion, reduciendolos a suelos mal drenados o areas inundadas, asi como desde la otra orilla buscar dejarlos en un estado pristino, es decir, sin ninguna forma de alteracion. Diversas poblaciones han demostrado como el ser humano mas que un intruso del ecosistema, debe ser entendido como parte de las mismas ya que ha logrado adaptarse al mismo. No obstante, cabe aclarar que el humedal no es solo util en cuanto a los bienes directos que proporciona, sino  tambien desde funcionalidad ecosistemica permite la regulacion de ciclos hidrologicos basicos, absorbe carbono, funciona como purificador y abastecedor de agua y amortigua los pulsos de inundacion ya sea por lluvias como en el caso del fenomeno de la niña o por el derbordamiento de los rios.  
 
-### Aportes ancestrales:
+![Texto alternativo](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Imagen%2C%20actores%20sociales.jpg)
+
 
 Los humedales dentro del ámbito social se han integrado bajo un carácter ambiental y recreativo. Así lo vemos en programas institucionales como Humedales de Bogotá, donde se implementa el trabajo con humedales en caminatas ecológicas, campañas divulgativas y campañas de siembra de arboles, llevado de la mano también con algunas disciplinas como la biología, específicamente con los temas de fauna y ciclos hídricos, sin olvidar la purificación del aire.
 
