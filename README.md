@@ -12,6 +12,8 @@ Debemos comprender la complejidad del ambiente natural y social (humedal), resul
 ### Problema de investigacion:
  Los humedales son ecosistemas de gran valor natural y cultural, constituidos por un cuerpo de agua permanente o estacional de escasa profundidad, una franja a su alrededor que puede cubrirse por inundaciones periódicas y una franja de terreno no inundable.(Alcaldia de Bogota, 2005). Asi mismo son considerados espacios de creacion cultural, ambiental y estructural, aspectos que se desarrollan en las comunidades circundantes. Son lugares de interacion sobre la fauna y los ciclos hidricos, sin embargo, tambien son espacios de opinion ancestral y construcctores de tejido social. De esta manera nace la pregunta ¿ Que aportes en los ambitos sociales y ancestral podemos extraer de los humedales?
  
+ ! [imagen piolin](https://github.com/nasolerr/humedales-y-sociedad/blob/main/piolin%20embarazo%20xd.jpg) 
+ 
 ### Objetivos
    - Analizar la importancia de los humedales entorno a sus aportes sociales y ancestrales.
    - Determinar al humedal como objeto de cosmovision ancestral.
