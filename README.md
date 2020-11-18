@@ -47,7 +47,11 @@ Adentrándonos mas podemos identificar algunas articulaciones especificas de los
 Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte fundamental de la relación socio-ambiental de los habitantes de un espacio específico. Por lo tanto, es necesario retomar las raíces indígenas y enriquecer la conciencia ambiental; a partir del conocimiento y la aplicación de las creencias ambientales que tienen los muiscas sobre la Pachamama como ellos la denominan. Adoptar no sólo la perspectiva urbana y social que se tiene del medio ambiente, sino una más ancestral y sagrada. Que nos permita apreciar, cuidar y hacer uso de manera responsable del medio ambiente
 
 ![Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque%202.jfif)
->Instituto Alexander Von Humbolt en (Mosquera y Nieto, 2015)> 
+
+
+
+![Otra perspectiva de la Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque.jfif)
+
 
 ###  Marco didactico
 
