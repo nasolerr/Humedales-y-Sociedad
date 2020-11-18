@@ -36,6 +36,7 @@ En ese sentido, es indispensable alejarnos de la vision por un lado de buscar al
 ![Texto alternativo](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Imagen%2C%20actores%20sociales.jpg)
 <tomado de Instituto Alexander von Humboldt (2015)>
 
+##### Aportes Ancestrales
 
 Los humedales dentro del ámbito social se han integrado bajo un carácter ambiental y recreativo. Así lo vemos en programas institucionales como Humedales de Bogotá, donde se implementa el trabajo con humedales en caminatas ecológicas, campañas divulgativas y campañas de siembra de arboles, llevado de la mano también con algunas disciplinas como la biología, específicamente con los temas de fauna y ciclos hídricos, sin olvidar la purificación del aire.
 
