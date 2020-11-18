@@ -46,12 +46,7 @@ Son personas inteligentes y hábiles para las artes. Sus valores están constitu
 Adentrándonos mas podemos identificar algunas articulaciones especificas de los humedales a este pueblo, pues para su cosmovisión, las fuentes hídricas son lugares de vida, sanación, reconocimiento y bienestar. Esto debido a la leyenda del pueblo muisca, donde Bachué y su hijo salen del agua para poblar la tierra. También cabe resaltar el carácter espiritual de estos lugares, puesto que funcionaban como lugares de rituales, reunión y juntas, donde los Muiscas adoraban al sol y la luna para obtener suerte en las cosechas . De la misma manera las fuentes de agua se consideran lugares de sanación y retiro, cuando se esta turbio o se siente perdido, las aguas calma el camino del muisca.
 Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte fundamental de la relación socio-ambiental de los habitantes de un espacio específico. Por lo tanto, es necesario retomar las raíces indígenas y enriquecer la conciencia ambiental; a partir del conocimiento y la aplicación de las creencias ambientales que tienen los muiscas sobre la Pachamama como ellos la denominan. Adoptar no sólo la perspectiva urbana y social que se tiene del medio ambiente, sino una más ancestral y sagrada. Que nos permita apreciar, cuidar y hacer uso de manera responsable del medio ambiente
 
-![Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque%202.jfif)
-
-
-
-![Otra perspectiva de la Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque.jfif)
-
+![Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque%202.jfif)     ![Otra perspectiva de la Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque.jfif)
 
 ###  Marco didactico
 
