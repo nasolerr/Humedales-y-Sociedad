@@ -1,5 +1,5 @@
-# humedales-y-sociedad
-Se busca dar cuenta de las relaciones entre humedales y sociedad
+# HUMEDAL Y SOCIEDAD
+
 ## Entre el Humedal y la Sociedad: Aporte Social y Ancestral de los humedales
 
 - - - 
