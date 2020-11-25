@@ -32,7 +32,7 @@ Estas comunidades, especialmente las que llevan una  mayor cantidad de tiempo re
 
 En ese sentido, es indispensable alejarnos de la vision por un lado de buscar alterar estos ecosistemas por no entender su funcion, reduciendolos a suelos mal drenados o areas inundadas, asi como desde la otra orilla buscar dejarlos en un estado pristino, es decir, sin ninguna forma de alteracion. Diversas poblaciones han demostrado como el ser humano mas que un intruso del ecosistema, debe ser entendido como parte de las mismas ya que ha logrado adaptarse al mismo. No obstante, cabe aclarar que el humedal no es solo util en cuanto a los bienes directos que proporciona, sino  tambien desde funcionalidad ecosistemica permite la regulacion de ciclos hidrologicos basicos, absorbe carbono, funciona como purificador y abastecedor de agua y amortigua los pulsos de inundacion ya sea por lluvias como en el caso del fenomeno de la niña o por el derbordamiento de los rios.  
 
-![Texto alternativo](https://raw.githubusercontent.com/nasolerr/humedales-y-sociedad/main/Imagen%2C%20actores%20sociales.jpg)
+![Texto alternativo](https://raw.githubusercontent.com/nasolerr/humedales-y-sociedad/main/Imagen%2C%20actores%20sociales.jpg)     
 >Instituto Alexander Von Humbolt en (Mosquera y Nieto, 2015)> 
 
 
@@ -48,7 +48,8 @@ Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte f
 
 
 ![Texto alternativo](https://raw.githubusercontent.com/nasolerr/humedales-y-sociedad/main/Muiscas%201.png)
->Comunidad Muisca> 
+>Comunidad Muisca> ![Texto alternativo](https://raw.githubusercontent.com/nasolerr/humedales-y-sociedad/main/santuario-de-flora-y-fauna-iguaque-1-112-1580x5131.jpg)
+>Laguna de Iguaque> 
 
 
 
