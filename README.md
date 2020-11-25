@@ -47,8 +47,9 @@ Adentrándonos mas podemos identificar algunas articulaciones especificas de los
 Ahora bien dentro del reconocimiento social la cosmovisión ambiental es parte fundamental de la relación socio-ambiental de los habitantes de un espacio específico. Por lo tanto, es necesario retomar las raíces indígenas y enriquecer la conciencia ambiental; a partir del conocimiento y la aplicación de las creencias ambientales que tienen los muiscas sobre la Pachamama como ellos la denominan. Adoptar no sólo la perspectiva urbana y social que se tiene del medio ambiente, sino una más ancestral y sagrada. Que nos permita apreciar, cuidar y hacer uso de manera responsable del medio ambiente
 
 ![Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque%202.jfif)     !)[Otra perspectiva de la Laguna de Iguaque](https://github.com/nasolerr/humedales-y-sociedad/blob/main/Iguaque.jfif)
-###  Marco didactico
 
+
+#Marco Didactivo
 Entendemos el territorio como un complejo y diverso espacio de aprendizaje, de ahí emerge una herramienta sencilla, el caminar el territorio, en clave de  reconocerlo y re-encantarnos con la vida que  somos, el ejercicio de caminar el territorio es un ejercicio milenario y afirmamos que no es obsoleto, porque no hay nada más significante que encontrarnos de frentón   con la diversidad. En suma, para sustentar el aprendizaje de lo diverso establecimos un diálogo transdisciplinar, con un habitante del territorio, que estableció desde su saber, en dirección a generar  apropiación y reconocimiento  de ciertas especies  endémicas y características de estos ecosistemas. una idea madre en construcción, que permitirá aprender desde el territorio, que permitirá ir a lo profundo de la naturaleza que somos, y así comprender y asombrarnos con la diversidad que nos habita, generando por consiguiente el reconocimiento de la alteridad en la compresión de espacios Bio-Sociales,Eco-socio-sistemas.
 
 ![Recorridohumedal](https://raw.githubusercontent.com/nasolerr/humedales-y-sociedad/main/Humedaaaaaaaaaal.jpg)
